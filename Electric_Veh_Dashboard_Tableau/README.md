@@ -68,7 +68,7 @@ Key insights derived from the analysis include:
 
 <img src="https://github.com/user-attachments/assets/e341a33d-28d4-4651-9beb-7f0a37aaccf4" alt="Screenshot 3" width="500" height="300"/>
 
-<img src="[https://github.com/user-attachments/assets/8fd844c2-fe08-4377-8be7-58e029a87747](https://github.com/user-attachments/assets/771b9ae0-3d82-4fa0-8921-29c96aa2357a)" alt="Screenshot" width="500" height="300"/>
+<img src="https://github.com/user-attachments/assets/8fd844c2-fe08-4377-8be7-58e029a87747](https://github.com/user-attachments/assets/771b9ae0-3d82-4fa0-8921-29c96aa2357a" alt="Screenshot" width="500" height="300"/>
 <img src="https://github.com/user-attachments/assets/8fd844c2-fe08-4377-8be7-58e029a87747" alt="Screenshot" width="500" height="300"/>
 
 
