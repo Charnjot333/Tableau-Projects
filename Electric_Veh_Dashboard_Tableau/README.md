@@ -29,7 +29,7 @@ This project focuses on analyzing a dataset containing information about electri
     - Insights into the most popular makes and models of electric vehicles.
 
 - Analysis by Vehicle Year
-   + Visualizations showing trends in vehicle production over the years.
+    - Visualizations showing trends in vehicle production over the years.
 ## Tools and Technologies
 - Tableau: Used for data visualization and dashboard creation.
 
@@ -45,7 +45,7 @@ git clone https://https://github.com/Charnjot333/Tableau-Projects.git
 
 Import the dataset (available in this repository).
 
-3. Open the Tableau workbook provided (electric_vehicle_analysis.twb).
+3. Open the Tableau workbook provided (Washington Ev Dashboard.twbx).
 
 4. Explore Dashboards:
 
