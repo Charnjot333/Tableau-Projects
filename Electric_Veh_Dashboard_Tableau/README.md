@@ -67,7 +67,8 @@ Key insights derived from the analysis include:
 ![Screenshot 2025-01-08 164014](https://github.com/user-attachments/assets/e341a33d-28d4-4651-9beb-7f0a37aaccf4)
 ![Screenshot 2025-01-08 163551](https://github.com/user-attachments/assets/771b9ae0-3d82-4fa0-8921-29c96aa2357a)
 ![Screenshot 2025-01-08 163531](https://github.com/user-attachments/assets/8fd844c2-fe08-4377-8be7-58e029a87747)
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/8fd844c2-fe08-4377-8be7-58e029a87747)" width="48">
+<img src="https://github.com/user-attachments/assets/8fd844c2-fe08-4377-8be7-58e029a87747" alt="Screenshot" width="500"/>
+
 
 ## Contact 
 
