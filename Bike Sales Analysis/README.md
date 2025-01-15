@@ -63,7 +63,10 @@ Key insights derived from the analysis include:
 
 4. Trends in vehicle production across different years.
 ## Screenshots
-
+![Screenshot 2025-01-15 221841](https://github.com/user-attachments/assets/2b841b5b-2327-4abd-93b5-dd9e18fa9f3b)
+![Screenshot 2025-01-15 221903](https://github.com/user-attachments/assets/58ee135a-e3e2-40cd-b18d-9540a5590fce)
+![Screenshot 2025-01-15 222051](https://github.com/user-attachments/assets/25dc8b79-8a2a-4f85-b124-bc65bb36ebc2)
+![Screenshot 2025-01-15 222059](https://github.com/user-attachments/assets/4724073a-4182-4a11-b6c9-78b4bd9c7795)
 ## Contact 
 
 For any queries, feel free to contact:
