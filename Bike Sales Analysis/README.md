@@ -2,6 +2,8 @@
 
 This repository contains a Tableau project dedicated to analyzing electric vehicle data to extract meaningful insights. The project leverages Tableau's powerful data visualization capabilities to explore trends, patterns, and distributions in the electric vehicle industry.
 
+## Dashboard 
+![Sales Dashboard ](https://github.com/user-attachments/assets/7f3ea499-204f-4bcc-8b01-a8e00e8e334e)
 
 ## Project Overview
 
