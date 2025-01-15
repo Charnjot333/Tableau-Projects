@@ -44,7 +44,7 @@ git clone https://github.com/Charnjot333/Tableau-Projects.git
 
 Import the dataset (available in this repository).
 
-3. Open the Tableau workbook provided (electric_vehicle_analysis.twb).
+3. Open the Tableau workbook provided (bike sales.twbx).
 
 4. Explore Dashboards:
 
@@ -60,7 +60,8 @@ Key insights derived from the analysis include:
 3. Popular makes and models dominating the market.
 
 4. Trends in vehicle production across different years.
-## Screenshots 
+## Screenshots
+
 ## Contact 
 
 For any queries, feel free to contact:
