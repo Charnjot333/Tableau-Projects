@@ -38,7 +38,7 @@ This project focuses on analyzing a dataset containing information about electri
 To explore the visualizations and dashboards:
 1. Clone this repository:
 bash
-git clone https://https://github.com/Charnjot333/Tableau-Projects.git
+git clone https://github.com/Charnjot333/Tableau-Projects.git
 
 2. Open Tableau:
 
